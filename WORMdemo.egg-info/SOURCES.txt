@@ -1,0 +1,9 @@
+README.md
+setup.py
+WORMdemo/__init__.py
+WORMdemo/downloader.py
+WORMdemo.egg-info/PKG-INFO
+WORMdemo.egg-info/SOURCES.txt
+WORMdemo.egg-info/dependency_links.txt
+WORMdemo.egg-info/not-zip-safe
+WORMdemo.egg-info/top_level.txt
